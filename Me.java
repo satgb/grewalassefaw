@@ -165,6 +165,8 @@ public class Me extends Player
 					{
 						System.out.println("You clubbed the caveman, and he runs away.");
 						m.remove(c);
+						c.add(c.bag.get(0));
+						c.bag.remove(0);
 						c = null;
 					}
 					else
