@@ -41,7 +41,7 @@ public class Me extends Player
 		System.out.println("<r> to grab rope.");
 		System.out.println("<c> to grab club");		
 		System.out.println("<d> to drop something.");
-		System.out.println("<wens> to change rooms.");
+		System.out.println("<w/e/n/s> to change rooms.");
 		System.out.println("<1> to interact with Explorer.");
 		System.out.println("<2> to interact with Caveman.");
 		System.out.println("<x> to exit.");
